@@ -12,16 +12,16 @@ The final stage includes an attempt to predict note sequences from audio inputs 
 
 ## 📁 Project Structure
 
-piano notes
-├── harmonic_coefficients.xlsx 
-├── main.py 
-├── my_optional_notes.py
-├── note_frequencies.py 
-├── noteHarryPotter.wav
-├── noteHarryPotter_mehdy.wav
-├── noteOptimized.wav
-├── notes.m
-├── notes.py 
-├── predictedNotes.txt 
-├── Report.pdf 
-└── Signals and Systems - Final Project.pdf 
+piano notes  
+├── harmonic_coefficients.xlsx  
+├── main.py  
+├── my_optional_notes.py  
+├── note_frequencies.py  
+├── noteHarryPotter.wav  
+├── noteHarryPotter_mehdy.wav  
+├── noteOptimized.wav  
+├── notes.m  
+├── notes.py  
+├── predictedNotes.txt  
+├── Report.pdf  
+└── Signals and Systems - Final Project.pdf  
